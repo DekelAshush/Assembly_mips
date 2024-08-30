@@ -1,7 +1,5 @@
-#Title: Maman 11 question 4                     
-#Filename:mmn11q4
+
 #Author: dekel ashush | דקל עשוש
-#ID: 316031194
 #Description: get numbers in octa  
 #Input: String 1-30 letter long
 #Output: move it to decimal than print it than order it and print again
