@@ -1,7 +1,5 @@
-#Title: Maman 11 question 3                      
-#Filename:mmn11q3
+
 #Author: dekel ashush | דקל עשוש
-#ID: 316031194
 #Description:print a string in a staggered form.
 #Input: String 1-30 letter long
 #Output: The program presents the string in a graded form
