@@ -1,7 +1,7 @@
 # Assembly_mips
-There are 2 assignment here, The First assignment is:
+There are 2 assignments here, The First assignment is:
 For the input "Sarah Jessica Parker", the program should output:
-Sarah Jessica Parker
+Sarah Jessica Parker 
 Sarah Jessica Parke
 Sarah Jessica Park
 Sarah Jessica Par
